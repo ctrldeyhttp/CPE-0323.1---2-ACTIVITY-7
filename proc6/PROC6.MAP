@@ -1,0 +1,10 @@
+Warning: DOSSEG directive ignored in module PROC6.ASM
+
+ Start  Stop   Length Name               Class
+
+ 00000H 0015EH 0015FH _TEXT              CODE
+ 00160H 001C4H 00065H _DATA              DATA
+ 001D0H 005CFH 00400H STACK              STACK
+
+Program entry point at 0000:0000
+
